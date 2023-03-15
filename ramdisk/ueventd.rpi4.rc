@@ -22,4 +22,5 @@
 /dev/video12                                                                 0660   media      media
 /dev/video18                                                                 0660   media      media
 /dev/video19                                                                 0660   media      media
+
 /dev/video31                                                                 0660   media      media
