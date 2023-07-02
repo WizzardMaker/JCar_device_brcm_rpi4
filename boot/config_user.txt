@@ -1,0 +1,17 @@
+# User specific config.txt options
+# Touchscreen:
+max_usb_current=1
+hdmi_group=2
+hdmi_mode=87
+hdmi_cvt 1024 600 60 6 0 0 0
+hdmi_drive=1
+
+# Audio DAC
+dtoverlay=hifiberry-amp
+
+# Overclock
+over_voltage=4
+arm_freq=1900
+
+# RTC
+dtoverlay=i2c-rtc,ds3231

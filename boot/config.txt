@@ -40,3 +40,5 @@ dtoverlay=dwc2,dr_mode=peripheral
 [cm4]
 dtoverlay=dwc2,dr_mode=otg
 [all]
+
+include config_user.txt
